@@ -2,6 +2,7 @@ numpy
 pandas
 scikit-learn
 streamlit
+altair
 snowflake-connector-python
 plotly
 python-dotenv

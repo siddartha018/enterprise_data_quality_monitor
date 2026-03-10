@@ -20,14 +20,14 @@ build/
 htmlcov/
 
 # IDE / editor
-.vscode/
 .idea/
 .DS_Store
 
 # Local config & secrets
-.env
 .streamlit/secrets.toml
 
 # Cursor / editor metadata
 .cursor/
 
+config.bat
+node_modules
