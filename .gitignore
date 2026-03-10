@@ -1,0 +1,33 @@
+# Python / virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Tests / coverage
+.pytest_cache/
+.coverage*
+htmlcov/
+
+# IDE / editor
+.vscode/
+.idea/
+.DS_Store
+
+# Local config & secrets
+.env
+.streamlit/secrets.toml
+
+# Cursor / editor metadata
+.cursor/
+

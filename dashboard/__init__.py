@@ -1,0 +1,2 @@
+"""Dashboard subpackage (Streamlit UI)."""
+

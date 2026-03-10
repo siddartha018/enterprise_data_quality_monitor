@@ -1,0 +1,2 @@
+"""Pipeline subpackage (extraction + orchestration)."""
+

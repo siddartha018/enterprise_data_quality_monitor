@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+streamlit
+snowflake-connector-python
+plotly
+python-dotenv
+
